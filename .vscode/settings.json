@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/michaelalbee/.platformio/penv/bin:/home/michaelalbee/.platformio/penv:/usr/share/Modules/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/home/michaelalbee/.local/bin:/home/michaelalbee/bin:/home/michaelalbee/.local/bin:/home/michaelalbee/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
